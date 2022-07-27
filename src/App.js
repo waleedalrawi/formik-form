@@ -44,7 +44,7 @@ function App() {
         <Field
           id="pswField"
           name="pswField"
-          type="text"
+          type="password"
           placeHolder="password"
         />
         <br />
