@@ -56,7 +56,7 @@ function App() {
         />
 
         <br />
-        <button type="LOGIN"> SUBMIT </button>
+        <button type="submit"> LOGIN </button>
       </Form>
     </Formik>
   );

@@ -6,6 +6,8 @@ This is a simple React login form built using <a href="https://formik.org/">form
 
 All styling used comes from Formik's <a href='https://formik.org/docs/tutorial#setup-option-2-local-development-environment'>tutorial style files </a>
 
+<img src='./screenshot.png'>
+
 ## How to Run
 
 This project was created using Create React App.
