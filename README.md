@@ -12,6 +12,8 @@ All styling used comes from Formik's <a href='https://formik.org/docs/tutorial#s
 
 This project was created using Create React App.
 
+Check it out on a <a href='https://codesandbox.io/s/github/waleedalrawi/formik-form'>sandbox here!</a>
+
 To run locally, download the repository, navigate to it in your terminal, and run:
 
 ### `npm start`
